@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
 	printf("Soyad: Kamer\n");
 	printf("Meslek: Ogrenci\n");
 	printf("Maas: 5000\n");
-	printf("Memleket: Siirt");
+	printf("Memleket: Istanbul");
 	
 	return 0;
 }
